@@ -1,0 +1,17 @@
+#file to ignore
+.txt
+_pycache_/
+
+#environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+#other files
+.DS_Store
+.Python
+*.pyc
+.ipynb_checkpoints/
+\Exercise_Git.ipynb
